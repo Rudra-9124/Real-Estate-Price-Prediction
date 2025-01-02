@@ -1,2 +1,2 @@
 # Real Estate Price Prediction
- 
+This notebook utilizes both Linear Regression and Polynomial Regression models to predict house prices based on features like longitude, latitude, and house age. The linear model provides a straightforward approach to price prediction, while the polynomial model captures more complex relationships between the features and the target variable. This approach enables more accurate price predictions for real estate analysis, providing valuable insights into the housing market.
